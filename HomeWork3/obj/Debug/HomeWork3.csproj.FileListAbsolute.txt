@@ -1,0 +1,16 @@
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.AssemblyReference.cache
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.SuggestedBindingRedirects.cache
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.AssemblyReference.cache
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.SuggestedBindingRedirects.cache
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.CoreCompileInputs.cache
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb
