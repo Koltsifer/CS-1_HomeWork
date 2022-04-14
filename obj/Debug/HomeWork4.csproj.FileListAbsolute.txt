@@ -1,0 +1,21 @@
+C:\Users\kolts\source\repos\HomeWork4\bin\Debug\HomeWork4.exe.config
+C:\Users\kolts\source\repos\HomeWork4\bin\Debug\HomeWork4.exe
+C:\Users\kolts\source\repos\HomeWork4\bin\Debug\HomeWork4.pdb
+C:\Users\kolts\source\repos\HomeWork4\obj\Debug\HomeWork4.csproj.AssemblyReference.cache
+C:\Users\kolts\source\repos\HomeWork4\obj\Debug\HomeWork4.csproj.SuggestedBindingRedirects.cache
+C:\Users\kolts\source\repos\HomeWork4\obj\Debug\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\kolts\source\repos\HomeWork4\obj\Debug\HomeWork4.exe
+C:\Users\kolts\source\repos\HomeWork4\obj\Debug\HomeWork4.pdb
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork4\bin\Debug\HomeWork4.exe.config
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork4\bin\Debug\HomeWork4.exe
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork4\bin\Debug\HomeWork4.pdb
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork4\obj\Debug\HomeWork4.csproj.AssemblyReference.cache
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork4\obj\Debug\HomeWork4.csproj.SuggestedBindingRedirects.cache
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork4\obj\Debug\HomeWork4.csproj.CoreCompileInputs.cache
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork4\obj\Debug\HomeWork4.exe
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork4\obj\Debug\HomeWork4.pdb
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork4\bin\Debug\MyLib.dll
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork4\bin\Debug\MyLib.pdb
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork4\obj\Debug\HomeWork4.csproj.CopyComplete
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork4\bin\Debug\Array2d.dll
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork4\bin\Debug\Array2d.pdb
