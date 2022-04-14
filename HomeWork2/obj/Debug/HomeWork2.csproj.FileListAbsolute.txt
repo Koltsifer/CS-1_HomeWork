@@ -1,0 +1,8 @@
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.AssemblyReference.cache
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
