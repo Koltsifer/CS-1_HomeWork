@@ -45,7 +45,7 @@ namespace HomeWork5
         }
 
         readonly static string message = "RegExr was created by gskinner, and is proudly hosted by Media TempleEdit the Expression and Text to see matches";
-
+        string test = string.Empty;
         static void Main(string[] args)
         {
             ConsoleKeyInfo key;
