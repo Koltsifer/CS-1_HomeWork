@@ -1,0 +1,16 @@
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork5\bin\Debug\HomeWork5.exe.config
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork5\bin\Debug\HomeWork5.exe
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork5\bin\Debug\HomeWork5.pdb
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork5\obj\Debug\HomeWork5.csproj.AssemblyReference.cache
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork5\obj\Debug\HomeWork5.csproj.SuggestedBindingRedirects.cache
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork5\obj\Debug\HomeWork5.csproj.CoreCompileInputs.cache
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork5\obj\Debug\HomeWork5.exe
+D:\Програмирование\Курс по C#\C#\Задания\HomeWork5\obj\Debug\HomeWork5.pdb
+D:\Програмирование\Курс по C#\C# практика\Задания\HomeWork5\bin\Debug\HomeWork5.exe.config
+D:\Програмирование\Курс по C#\C# практика\Задания\HomeWork5\bin\Debug\HomeWork5.exe
+D:\Програмирование\Курс по C#\C# практика\Задания\HomeWork5\bin\Debug\HomeWork5.pdb
+D:\Програмирование\Курс по C#\C# практика\Задания\HomeWork5\obj\Debug\HomeWork5.csproj.AssemblyReference.cache
+D:\Програмирование\Курс по C#\C# практика\Задания\HomeWork5\obj\Debug\HomeWork5.csproj.SuggestedBindingRedirects.cache
+D:\Програмирование\Курс по C#\C# практика\Задания\HomeWork5\obj\Debug\HomeWork5.csproj.CoreCompileInputs.cache
+D:\Програмирование\Курс по C#\C# практика\Задания\HomeWork5\obj\Debug\HomeWork5.exe
+D:\Програмирование\Курс по C#\C# практика\Задания\HomeWork5\obj\Debug\HomeWork5.pdb
