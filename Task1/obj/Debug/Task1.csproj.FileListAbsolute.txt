@@ -1,0 +1,8 @@
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork1\Task1\bin\Debug\Task1.exe.config
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork1\Task1\bin\Debug\Task1.exe
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork1\Task1\bin\Debug\Task1.pdb
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork1\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork1\Task1\obj\Debug\Task1.exe
+C:\Users\kolts\Desktop\Курс по C#\C#\Задания\HomeWork1\Task1\obj\Debug\Task1.pdb
