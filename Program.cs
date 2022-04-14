@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace HomeWork5
 {
@@ -44,8 +45,35 @@ namespace HomeWork5
             }
         }
 
+        static bool MessageEqual(string a, string b)
+        {
+            bool flag = false;
+            Dictionary<char, int> x = new Dictionary<char, int>();
+            for (char ch = 'a'; ch <= 'z'; ch++)
+            {
+                x.Add(ch, 0);
+            }
+            foreach (char c in a)
+            {
+                if (c >= 'a' && c <= 'z')
+                    x[c]++;
+            }
+            Dictionary<char, int> y = new Dictionary<char, int>();
+            for (char ch = 'a'; ch <= 'z'; ch++)
+            {
+                y.Add(ch, 0);
+            }
+            foreach (char c in b)
+            {
+                if (c >= 'a' && c <= 'z')
+                    y[c]++;
+            }
+            if (x.SequenceEqual(y)) flag = true;
+            return flag;
+        }
+
         readonly static string message = "RegExr was created by gskinner, and is proudly hosted by Media TempleEdit the Expression and Text to see matches";
-        string test = string.Empty;
+
         static void Main(string[] args)
         {
             ConsoleKeyInfo key;
@@ -171,33 +199,6 @@ namespace HomeWork5
             Console.ReadKey();
         }
 
-        static bool MessageEqual(string a, string b)
-        {
-            bool flag = false;
-            Dictionary<char, int> x = new Dictionary<char, int>();
-            for (char ch = 'a'; ch <= 'z'; ch++)
-            {
-                x.Add(ch, 0);
-            }
-            foreach (char c in a)
-            {
-                if (c >= 'a'&& c <= 'z')
-                x[c]++;
-            }
-            Dictionary<char, int> y = new Dictionary<char, int>();
-            for (char ch = 'a'; ch <= 'z'; ch++)
-            {
-                y.Add(ch, 0);
-            }
-            foreach (char c in b)
-            {
-                if (c >= 'a' && c <= 'z')
-                    y[c]++;
-            }
-            if (x.SequenceEqual(y)) flag = true;
-            return flag;
-        }
-
         static void Task4()
         {
             /*
@@ -216,6 +217,9 @@ namespace HomeWork5
             Достаточно решить 2 задачи. Старайтесь разбивать программы на подпрограммы. Переписывайте в начало программы условие и свою фамилию. Все программы сделать в одном решении. 
             Для решения задач используйте неизменяемые строки (string).
             */
+
+            StreamReader sr = new StreamReader("data.txt");
+            sr.Close();
 
         }
 
