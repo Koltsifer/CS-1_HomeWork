@@ -220,7 +220,7 @@ namespace HomeWork5
 
             StreamReader sr = new StreamReader("data.txt");
             sr.Close();
-
+            Console.WriteLine("Portable Test!");
         }
 
     }
