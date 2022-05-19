@@ -144,7 +144,11 @@ namespace HomeWork5
             ConsoleKeyInfo key;
             do
             {
-                Console.WriteLine("Укажите номер задачи");
+                Console.WriteLine("Укажите номер задачи\n\n" +
+                    "1.Проверка логина и пароля.\n" +
+                    "2.Обработка текста.\n" +
+                    "3.Сравнение строк.\n" +
+                    "4.Задача ЕГЭ.");
                 key = Console.ReadKey();
                 switch (key.Key)
                 {
@@ -205,6 +209,7 @@ namespace HomeWork5
 
         static void Task2()
         {
+            Console.WriteLine("Original message:\n" + message + "\n");
             Message.WordOutMax(message, 3);
             Message.WordDeleteByEndChar(message, 'r');
             Message.LongestWord(message);
@@ -244,9 +249,50 @@ namespace HomeWork5
 
         static void Task4()
         {
+            Console.WriteLine("Ученики набравшие худшие результаты:\n");
+
+            string onlyLetters = "([A-Za-zА-Яа-я Ёё]+[ ]){2}";
+            string onlyNumbers = "\\d";
+            Dictionary<string, double> studentCatalog = new Dictionary<string, double>();
             StreamReader sr = new StreamReader("data.txt");
+            int studentNumber = int.Parse(sr.ReadLine());
+            for (int i = 0; i < studentNumber; i++)
+            {
+                string container = sr.ReadLine();
+                double theAverageMark = 0.0;
+                Match letters = Regex.Match(container, onlyLetters);
+                foreach (Match number in Regex.Matches(container, onlyNumbers))
+                    theAverageMark += double.Parse(number.ToString());
+                theAverageMark /= 3.0;
+                studentCatalog.Add(letters.ToString(), theAverageMark);
+            }
             sr.Close();
-            Console.WriteLine("Portable Test!");
+
+            double min1 = 5;
+            double min2 = 5;
+            double min3 = 5;
+
+            foreach (var element in studentCatalog)
+                if (element.Value < min1)
+                    min1 = element.Value;
+            foreach (var element in studentCatalog)
+                if (element.Value < min2 && element.Value > min1)
+                    min2 = element.Value;
+            foreach (var element in studentCatalog)
+                if (element.Value < min3 && element.Value > min2)
+                    min3 = element.Value;
+
+            foreach(var element in studentCatalog)
+                if (element.Value == min1)
+                    Console.WriteLine($"{element.Key}{element.Value:F1}");
+            foreach (var element in studentCatalog)
+                if (element.Value == min2)
+                    Console.WriteLine($"{element.Key}{element.Value:F1}");
+            foreach (var element in studentCatalog)
+                if (element.Value == min3)
+                    Console.WriteLine($"{element.Key}{element.Value:F1}");
+
+            Console.ReadKey();
         }
     }
 }
